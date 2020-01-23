@@ -1,0 +1,182 @@
+Rarity: Unique
+Quill Rain
+Short Bow
+--------
+Bow
+Physical Damage: 12-32 (augmented)
+Critical Strike Chance: 5.00%
+Attacks per Second: 3.00 (augmented)
+--------
+Requirements:
+Level: 5
+Dex: 26
+--------
+Sockets: G-G G
+--------
+Item Level: 79
+--------
++20 to Dexterity
+100% increased Physical Damage
+100% increased Attack Speed
++2 Mana gained for each Enemy hit by Attacks
+90% increased Projectile Speed
++38 to Accuracy Rating
+40% less Damage
+--------
+"The rain of a thousand quills that whittle
+present into past, life into death."
+- Rigwald of the Ezomytes
+Rarity: Rare
+Loath Thirst
+Imperial Bow
+--------
+Bow
+Physical Damage: 31-100 (augmented)
+Critical Strike Chance: 5.00%
+Attacks per Second: 1.45
+--------
+Requirements:
+Level: 66
+Dex: 144 (augmented)
+--------
+Sockets: G-G
+--------
+Item Level: 83
+--------
+24% increased Elemental Damage with Attack Skills
+--------
+32% reduced Attribute Requirements
+Adds 12 to 22 Physical Damage
+32% increased Stun Duration on Enemies
+Gain 9% of Physical Damage as Extra Cold Damage
+4% chance to gain a Frenzy Charge on Kill
+10% chance to gain Onslaught for 4 seconds on Kill
+--------
+Shaper Item
+Rarity: Rare
+Corpse Song
+Ivory Bow
+--------
+Bow
+Quality: +20% (augmented)
+Physical Damage: 53-126 (augmented)
+Elemental Damage: 29-44 (augmented)
+Critical Strike Chance: 7.56% (augmented)
+Attacks per Second: 1.49 (augmented)
+--------
+Requirements:
+Level: 70
+Str: 70
+Dex: 155
+Int: 111
+--------
+Sockets: B-G-G-B-G-R
+--------
+Item Level: 77
+--------
+Adds 23 to 41 Physical Damage
+Adds 29 to 44 Cold Damage
+10% increased Attack Speed
+31% increased Projectile Speed
+Adds 3 to 5 Cold Damage to Attacks with this Weapon per 10 Dexterity
+26% increased Critical Strike Chance (crafted)
+--------
+Shaper Item
+Rarity: Unique
+Silverbranch
+Crude Bow
+--------
+Bow
+Quality: +20% (augmented)
+Physical Damage: 11-29 (augmented)
+Critical Strike Chance: 5.00%
+Attacks per Second: 1.54 (augmented)
+--------
+Sockets: R-B
+--------
+Item Level: 75
+--------
++1 to Level of Socketed Bow Gems
+100% increased Physical Damage
+10% increased Attack Speed
++10 Mana gained on Kill
++30 to Accuracy Rating
+--------
+"The wild takes care of its own."
+- Hyrri of the Karui
+Rarity: Normal
+Decimation Bow
+--------
+Bow
+Physical Damage: 31-81
+Critical Strike Chance: 7.05% (augmented)
+Attacks per Second: 1.20
+--------
+Requirements:
+Level: 53
+Dex: 170
+--------
+Sockets: G-G-G G G-G
+--------
+Item Level: 74
+--------
+41% increased Critical Strike Chance
+Rarity: Rare
+Dire Breeze
+Harbinger Bow
+--------
+Bow
+Quality: +30% (augmented)
+Physical Damage: 127-305 (augmented)
+Elemental Damage: 5-115 (augmented)
+Chaos Damage: 29-59 (augmented)
+Critical Strike Chance: 9.00% (augmented)
+Attacks per Second: 1.39 (augmented)
+--------
+Requirements:
+Level: 68
+Dex: 212
+--------
+Sockets: G G-G-G-G-G
+--------
+Item Level: 85
+--------
+50% increased Critical Strike Chance
+--------
+79% increased Physical Damage
+Adds 26 to 55 Physical Damage
+Adds 5 to 115 Lightning Damage
+Adds 29 to 59 Chaos Damage
+16% increased Attack Speed
+30% increased Critical Strike Chance
++31% to Global Critical Strike Multiplier
+--------
+Corrupted
+--------
+Note: ~b/o 25 chaos
+Rarity: Unique
+Storm Cloud
+Long Bow
+--------
+Bow
+Elemental Damage: 1-85 (augmented)
+Critical Strike Chance: 6.00%
+Attacks per Second: 1.93 (augmented)
+--------
+Requirements:
+Level: 9
+Dex: 38
+--------
+Sockets: G-G-G
+--------
+Item Level: 80
+--------
+No Physical Damage
+Adds 1 to 85 Lightning Damage
+48% increased Attack Speed
+--------
+Centuries of development in steel armoursmithing
+turned the armies of the Eternal Empire
+into very effective lightning rods.
+--------
+Note: ~b/o 11 chaos
